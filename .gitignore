@@ -1,0 +1,64 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Compiled Files
+*.exe
+*.out
+*.o
+*.obj
+*.class
+*.pyc
+__pycache__/
+*.pyo
+
+# Build Directories
+build/
+dist/
+bin/
+obj/
+out/
+target/
+
+# Package Manager
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment Files
+.env
+.env.local
+venv/
+env/
+ENV/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log Files
+*.log
+logs/
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+
+# Archives (optional - uncomment if you don't want to track zip files)
+# *.zip
+# *.rar
+# *.7z
+# *.tar.gz
